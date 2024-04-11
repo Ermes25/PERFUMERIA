@@ -37,4 +37,3 @@ class facturas:
     def get_categories(self):
         return self.categorias.name
     
-#class para los modelos
